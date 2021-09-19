@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="296px" height="108px" viewBox="0 0 296 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>logoBlackBig</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="22.6177118" cy="14.2801417" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-3" cx="22.6157647" cy="38.0667546" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-5" cx="43.4732684" cy="25.9327411" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-7" cx="83.844166" cy="26.0016602" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-9" cx="64.4449694" cy="38.2836684" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-11" cx="64.2498334" cy="14.3902778" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-13" cx="43.5579563" cy="2.08682105" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-15" cx="64.1216476" cy="62.6664227" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-17" cx="43.6372046" cy="97.6278435" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-19" cx="22.5860491" cy="86.284478" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-21" cx="64.3056228" cy="85.8682001" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-23" cx="83.7777141" cy="74.3669551" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-25" cx="43.7865641" cy="74.2849223" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-27" cx="2.54195201" cy="74.7138302" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-29" cx="22.5217208" cy="61.9813414" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-30">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-31" cx="2.2489879" cy="49.9877125" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-32">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-33" cx="2.56292191" cy="26.0284755" r="2"></circle>
+        <filter x="-200.0%" y="-100.0%" width="500.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-34">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-35" cx="64.2893058" cy="26.0637794" rx="1.99504542" ry="2"></ellipse>
+        <filter x="-175.4%" y="-125.0%" width="450.9%" height="450.0%" filterUnits="objectBoundingBox" id="filter-36">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-37" cx="22.8054305" cy="25.9876015" rx="1.99504542" ry="2"></ellipse>
+        <filter x="-175.4%" y="-125.0%" width="450.9%" height="450.0%" filterUnits="objectBoundingBox" id="filter-38">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-39" cx="43.5062238" cy="13.8195574" rx="1.99504542" ry="2"></ellipse>
+        <filter x="-175.4%" y="-125.0%" width="450.9%" height="450.0%" filterUnits="objectBoundingBox" id="filter-40">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-41" cx="2.38413859" cy="38.5654481" rx="1.99504542" ry="2"></ellipse>
+        <filter x="-175.4%" y="-125.0%" width="450.9%" height="450.0%" filterUnits="objectBoundingBox" id="filter-42">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-43" cx="22.5494917" cy="49.484902" rx="1.99504542" ry="2"></ellipse>
+        <filter x="-175.4%" y="-125.0%" width="450.9%" height="450.0%" filterUnits="objectBoundingBox" id="filter-44">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-45" cx="2.53795299" cy="62.4562911" rx="1.99504542" ry="2"></ellipse>
+        <filter x="-175.4%" y="-125.0%" width="450.9%" height="450.0%" filterUnits="objectBoundingBox" id="filter-46">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-47" cx="22.4140073" cy="74.6942537" rx="1.99504542" ry="2"></ellipse>
+        <filter x="-175.4%" y="-125.0%" width="450.9%" height="450.0%" filterUnits="objectBoundingBox" id="filter-48">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-49" cx="43.7003232" cy="85.9948783" rx="1.99504542" ry="2"></ellipse>
+        <filter x="-175.4%" y="-125.0%" width="450.9%" height="450.0%" filterUnits="objectBoundingBox" id="filter-50">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-51" cx="64.2387756" cy="74.7569837" rx="1.99504542" ry="2"></ellipse>
+        <filter x="-175.4%" y="-125.0%" width="450.9%" height="450.0%" filterUnits="objectBoundingBox" id="filter-52">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-18.000000, -14.000000)">
+            <g id="logoBlackBig" transform="translate(22.000000, 14.000000)">
+                <g id="footer">
+                    <g id="central-technology" transform="translate(0.021051, 0.004863)">
+                        <g id="lines" transform="translate(1.882817, 1.798615)" stroke="#000000" stroke-width="0.5" stroke-linecap="square">
+                            <path d="M0.600551811,24.57852 L41.7111402,0.401562672" id="Line"></path>
+                            <path d="M0.115002678,48.4295133 L62.7508408,12.4096458" id="Line"></path>
+                            <path d="M0.600551811,73.091765 L21.1554651,60.7606392" id="Line"></path>
+                            <path d="M62.4271414,36.7473941 L81.8491067,24.4162683" id="Line"></path>
+                            <path d="M20.9936154,84.6116325 L62.7508408,60.7606392" id="Line"></path>
+                            <path d="M41.8722281,96.1315001 L82.0109564,72.7672617" id="Line"></path>
+                            <path d="M41.7913033,0.484149093 L82.4965056,24.7407716" id="Line"></path>
+                            <path d="M82.1728061,72.7672617 L62.5889911,60.9228908" id="Line"></path>
+                            <path d="M0.4387021,72.9295133 L42.0340778,96.6182551" id="Line"></path>
+                            <path d="M0.4387021,48.4295133 L62.4271414,84.4493809" id="Line"></path>
+                            <path d="M0.115002678,24.091765 L21.3173148,36.9096458" id="Line"></path>
+                            <path d="M20.9936154,12.7341491 L62.4271414,36.7473941" id="Line"></path>
+                            <path d="M0.25,24.4162683 L0.25,73.2542862" id="Line"></path>
+                            <path d="M20.25,12.7341491 L20.25,84.4510327" id="Line"></path>
+                            <path d="M41.25,0.24077161 L41.25,24.5806832" id="Line"></path>
+                            <path d="M41.25,72.7672617 L41.25,96.1320635" id="Line"></path>
+                            <path d="M62.25,60.5983875 L62.25,84.2876849" id="Line"></path>
+                            <path d="M62.25,12.5718974 L62.25,36.7473941" id="Line"></path>
+                            <path d="M0.519626956,24.25 L82.0918813,24.25" id="Line"></path>
+                            <path d="M0.4387021,36.25 L20.8317657,36.25" id="Line"></path>
+                            <path d="M0.600551811,47.25 L20.9936154,47.25" id="Line"></path>
+                            <path d="M0.4387021,60.25 L20.9936154,60.25" id="Line"></path>
+                            <path d="M0.600551811,72.25 L82.1728061,72.25" id="Line"></path>
+                            <path d="M20.8317657,84.25 L62.4271414,84.25" id="Line"></path>
+                            <path d="M20.669916,12.25 L62.4271414,12.25" id="Line"></path>
+                        </g>
+                        <g id="oval" transform="translate(0.000000, 0.149609)">
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-7"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-9"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-11"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-13"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-15"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-17"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-19"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-21"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-23"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-25"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-27"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-29"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-32)" xlink:href="#path-31"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-31"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-34)" xlink:href="#path-33"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-33"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-36)" xlink:href="#path-35"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-35"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-38)" xlink:href="#path-37"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-37"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-40)" xlink:href="#path-39"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-39"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-42)" xlink:href="#path-41"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-41"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-44)" xlink:href="#path-43"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-43"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-46)" xlink:href="#path-45"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-45"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-48)" xlink:href="#path-47"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-47"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-50)" xlink:href="#path-49"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-49"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-52)" xlink:href="#path-51"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-51"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <text id="Central" font-family="Jaapokki-Regular, Jaapokki" font-size="40" font-weight="normal" letter-spacing="-0.00444444921" fill="#000000">
+                    <tspan x="93" y="45">Central</tspan>
+                </text>
+                <text id="Technology" font-family="Jaapokkienchance-Regular, Jaapokki enchance" font-size="40" font-weight="normal" letter-spacing="-0.00444444921" fill="#000000">
+                    <tspan x="93" y="81">Technology</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

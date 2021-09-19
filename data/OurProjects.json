@@ -1,0 +1,20 @@
+[
+    {
+      "Title":"Web Development",
+      "Url":"https://www.linorp.com",
+      "ImageUrl":"/linorplogo.svg",
+      "Description":"We design and develop beautiful looking responsive web applications keeping speed, UI, UX and Brand Value in top priority."
+    },
+    {
+      "Title":"E-Commerce Development",
+      "Url":"https://www.centraltechnology.org",
+      "ImageUrl":"/centralTech.svg",
+      "Description":"Take your store online, List all your products and accept card payments on your website straight to your bank account."
+    },
+    {
+      "Title":"Mobile App Development" ,
+      "Url":"",
+      "ImageUrl":"/Jyoti.png",
+      "Description":"We develop high performing beautiful apps for Android and iOS using either Native or Xamarin, React Native and Flutter, choice is yours"
+    }
+]
