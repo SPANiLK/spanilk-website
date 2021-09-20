@@ -8,7 +8,7 @@ import Link from 'next/link'
 
 const Footer = ()=>{
     return(
-        <footer className={`${styles.footer} flex items-stretch bg-matteBlack`}>
+        <footer className={`${styles.footer} bottom-0 flex items-stretch bg-matteBlack`}>
             <div className="grid grid-cols-1 md:grid-cols-4 gap-10 px-10 py-10 ">
                 {/* logo and description */}
                 <div>
