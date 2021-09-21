@@ -70,12 +70,20 @@
   font-weight: 400;
   font-size: 1.5rem;
   line-height: 1.6em;
+  list-style: disclosure-closed;
+}
+.gh-canvas > ol{
+  list-style-type: decimal;
 }
 
 .gh-content > ul,
 .gh-content > ol,
 .gh-content > dl {
   padding-left: 1.9em;
+  list-style: disclosure-closed;
+}
+.gh-content > ol{
+  list-style-type: decimal;
 }
 
 .gh-content hr {
