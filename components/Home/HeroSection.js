@@ -1,9 +1,15 @@
 import Hero from '../../public/hero.svg'
 import Link from 'next/link'
+import Head from 'next/head'
 
 export default function HeroSection() {
   return (
     <div className="bg-matteBlack text-white leading-loose py-20">
+      <Head>
+        <title>SPANiLK - A Software Development Company</title>
+        <meta name="description" content="SPANiLK - A software development company" />
+        <link rel="icon" href="/logo_small_circle.png" />
+      </Head>
       <div className="container mx-auto px-2">
         <div className="flex flex-col lg:flex-row justify-between">
           <div className="flex flex-col my-auto">

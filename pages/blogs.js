@@ -1,4 +1,5 @@
 import Blog from '../components/Home/BlogSection.js'
+import Head from 'next/head'
 
 const {CONTENT_API_KEY,BLOG_URL} = process.env
 
@@ -18,8 +19,11 @@ export async function getStaticProps()
 
 export default function blog(props) {
     return (
-        <>
+        <div>
+          <Head>
+            <title>SPANiLK - Our Blogs</title>
+          </Head>
           <Blog posts={props.posts} title="Our blogs" more={false}/>
-        </>
+        </div>
       )
 }
