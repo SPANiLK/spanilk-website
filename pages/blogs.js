@@ -1,14 +1,8 @@
 import Blog from '../components/Home/BlogSection.js'
 import Head from 'next/head'
+import { useRouter } from 'next/router'
 
 const {CONTENT_API_KEY,BLOG_URL} = process.env
-
-export async function getStaticPaths() {
-  return {
-    paths: [],
-    fallback: true,
-  }
-}
 
 export async function getStaticProps()
 {
@@ -20,7 +14,8 @@ export async function getStaticProps()
   }
 }
 
-export default function blog(props) {
+export default function Blogs(props) {
+  const router = useRouter()
   if (router.isFallback) {
     return <div>Loading...</div>
   }
