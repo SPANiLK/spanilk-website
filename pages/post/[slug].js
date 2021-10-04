@@ -1,5 +1,6 @@
 import { useRouter } from 'next/dist/client/router'
 import Image from 'next/image'
+import Head from 'next/head'
 
 const CONTENT_API_KEY = process.env.CONTENT_API_KEY
 const BLOG_URL = process.env.BLOG_URL
@@ -33,10 +34,15 @@ export default function Post(props) {
     return <h1 className="text-center">Loading...</h1>
   }
   return (
+    <>
+    <Head>
+        <title>{props.title} | BLOG | SPANiLK </title>
+    </Head>
     <div className="mb-24">
       <h1 className="my-20 mx-30 text-4xl text-center underline ">{props.title}</h1>
       <div className="mx-20 gh-canvas gh-content" dangerouslySetInnerHTML={{__html:props.html}}></div>
     </div>
+    </>
 )
 
 };
