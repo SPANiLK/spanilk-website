@@ -15,7 +15,7 @@ export async function getStaticProps(params)
   const post = await getPost(params.params.slug)
   return{
     props:post,
-    revalidate: 60
+    revalidate: 1440
   }
 }
 
