@@ -57,7 +57,6 @@ const Footer = ()=>{
                     </div>
                    {/* contact */}
                    <div>
-                        <p className="py-1"><a href="tel:9779801811391" className="text-gray-200 hover:text-primary">Phone: +977-9801811391</a></p>
                         <p className="py-1"><a href="mailto:info@spanilk.com" className="text-gray-200 hover:text-primary">Email: info@spanilk.com</a></p>
                     </div>
                 </div>
