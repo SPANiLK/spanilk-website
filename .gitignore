@@ -37,3 +37,5 @@ yarn-error.log*
 .eslintrc.json
 .vscode/
 yarn.lock
+
+.env
