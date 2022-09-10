@@ -7,15 +7,15 @@ import { useRouter } from 'next/dist/client/router'
 
 const {CONTENT_API_KEY,BLOG_URL} = process.env
 
-export async function getStaticProps()
-{
-  const res = await fetch(`${BLOG_URL}/ghost/api/v3/content/posts/?key=${CONTENT_API_KEY}&limit=6`).then((res)=>res.json())
-  const posts = res
-  return{
-    props:posts,
-    revalidate: 60
-  }
-}
+// export async function getStaticProps()
+// {
+//   const res = await fetch(`${BLOG_URL}/ghost/api/v3/content/posts/?key=${CONTENT_API_KEY}&limit=6`).then((res)=>res.json())
+//   const posts = res
+//   return{
+//     props:posts,
+//     revalidate: 60
+//   }
+// }
 
 export default function Home(props) {
   const router = useRouter()
