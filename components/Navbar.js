@@ -33,9 +33,9 @@ const Navbar = () => {
                         <Link href="/projects" className="active:text-red-200" >
                             <a className="text-gray-200 py-5 hover:text-primary">Projects</a>
                         </Link>
-                        <Link href="/blogs">
-                            <a className="text-gray-200 py-5 hover:text-primary">Blog</a>
-                        </Link>
+//                         <Link href="/blogs">
+//                             <a className="text-gray-200 py-5 hover:text-primary">Blog</a>
+//                         </Link>
                         <Link href="/contact">
                             <a className="text-gray-200 py-5 hover:text-primary">Contact</a>
                         </Link>
@@ -67,12 +67,12 @@ const Navbar = () => {
                             Projects
                         </a>
                     </Link>
-                    <Link href="/blogs">
-                    <a className={`${router.pathname=="/blogs"?'bg-matteBlack text-gray-100':''} w-full block py-2 px-3 text-center hover:bg-matteBlack hover:text-gray-100`}>
-                        <Blog className="mx-auto h-7 w-7 mb-1"/>
-                        Blog
-                    </a>
-                    </Link>
+//                     <Link href="/blogs">
+//                     <a className={`${router.pathname=="/blogs"?'bg-matteBlack text-gray-100':''} w-full block py-2 px-3 text-center hover:bg-matteBlack hover:text-gray-100`}>
+//                         <Blog className="mx-auto h-7 w-7 mb-1"/>
+//                         Blog
+//                     </a>
+//                     </Link>
                     <Link href="/contact">
                         <a className={`${router.pathname=="/contact"?'bg-matteBlack text-gray-100':''} w-full block py-2 px-3 text-center hover:bg-matteBlack hover:text-gray-100`}>
                             <Contact className="mx-auto h-7 w-7 mb-1"/>
